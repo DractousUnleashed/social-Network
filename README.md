@@ -15,7 +15,7 @@
   Make sure that you've downloaded the repository from github and have all of the depencancies installed. While you're at it, make sure that you have MongoDB on whatever machine you're using and that it is running. Enter npm start to boot up the server. Once you've done that, use Insomnia Core to run your API requests and test the functionality.
 
   ## Usage
-  The main usage is to connect this backend to whatever social media frontend you've created. Study the included API routes, connect them to front end functionality and wah-la! You've got yourself a basic social media application. 
+  The main usage is to connect this backend to any social media frontend you've created. Study the included API routes, connect them to front end functionality and you've got yourself a basic social media application. 
 
   ## License
   This project uses the MIT license. Check out <a href="https://choosealicense.com">this</a> website for more information on this and other licenses. 
@@ -29,6 +29,6 @@
   <a href="https://drive.google.com/file/d/1jTojpP8VKLct9NoPxNGWbhIfCOxxeDvO/view?usp=sharing"> Part 2 (picks up at 4:25 from Part 1) </a>
   
   ## Contact
-  Learn more about the owner of this project by visiting their Github Profile: <a href=https://github.com/FullmerJake>FullmerJake</a>
+  Learn more about the owner of this project by visiting their Github Profile: <a href=https://github.com/DractousUnleashed>Charles Marshall</a>
 
-  If you have any questions or concerns about this project, you can get a hold of the owner at w.jake.fullmer@gmail.com! Just send them an email and they will get back to you as soon as they can.
+  If you have any questions or concerns about this project, you can get a hold of the owner at chazrmarshall@gmail.com Just send them an email and they will get back to you as soon as they can.
